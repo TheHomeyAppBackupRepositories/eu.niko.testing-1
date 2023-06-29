@@ -1,0 +1,1 @@
+{"version":3,"file":"NikoIASZoneCluster.js","sourceRoot":"","sources":["../../../../lib/zigbee/custom/NikoIASZoneCluster.ts"],"names":[],"mappings":";;AAAA,qDAA6D;AAE7D,MAAqB,kBAAmB,SAAQ,gCAAc;IAC5D,MAAM,KAAK,UAAU;QACnB,OAAO;YACL,GAAG,KAAK,CAAC,UAAU;YACnB,2BAA2B,EAAE;gBAC3B,EAAE,EAAE,IAAI;gBACR,IAAI,EAAE,8BAAY,CAAC,KAAK;aACzB;SACF,CAAA;IACH,CAAC;CACF;AAVD,qCAUC"}
